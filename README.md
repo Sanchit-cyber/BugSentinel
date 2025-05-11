@@ -16,7 +16,7 @@ The Bug Hunting Tool is an all-in-one application designed for educational purpo
    ```
 2. Navigate to the project directory:
    ```
-   cd bug-hunting-tool
+   cd Bugsentinel
    ```
 3. Install the required dependencies:
    ```
