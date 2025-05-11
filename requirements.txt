@@ -1,0 +1,9 @@
+tkinter
+requests
+beautifulsoup4
+dnspython
+scapy
+python-nmap
+requests
+sublist3r
+nmap
